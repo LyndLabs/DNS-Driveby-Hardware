@@ -1,4 +1,4 @@
-20113696737816971
+20115380367601270
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50154,6 +50154,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DNS-DriveBy
+MicroSD
+TFP09-2-12B
+SD TF TransFlash Card
+0
+13
+10
 DNS-DriveBy
 NEO-6M GPS
 
